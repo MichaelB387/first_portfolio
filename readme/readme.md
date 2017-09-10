@@ -30,6 +30,41 @@ Then came my final design
 ![screen shot 2017-09-10 at 8 49final_design](https://user-images.githubusercontent.com/30610205/30248366-e5091ef0-9669-11e7-993e-be4e4a10f507.png)
 
 
+# Challenges
+
+There were numerous challenges with this project.
+
+## HTML Challenges
+- linking files HTML to CSS
+  
+  There were numerous times where the html file wouldn't link to the relevent css file, on occasion the site would work when operating on a local server but when uploaded to netlify without any changes the site wouldn't work.
+  Also when opening the HTML file directly in a browser window this would run but then the loacl server version wouldn't work.
+  
+- adding images
+
+  Managing to get images to load correctly was at times also challenging.
+
+## CSS challenges
+
+- Flexbox
+
+  Using and understanding flexbox at first was quite challenging, just when you would think you had everything correct it would all seem to go wrong. A lot of the time these issues were fixed by going back and forth coding attempt and code again. Making use of online tutorials was a great help.
+
+- Images
+
+  Sizing and importing the images again proved challenging, which was resolved through a lot of trial and error.
+
+- Responsiveness
+
+  Making the website respond correctly to a range of sizes was quite difficult as I had to make use of flexbox again across the different screen sizes.
+
+# Conclusion
+
+The webite is at this stage a finished product but will be an ongoing project to continuosly update and improve the website. I would like to add more features such as animation and also make the mobile version more appealing.
+
+
+
+
 
 
 
