@@ -40,7 +40,7 @@ There were numerous challenges with this project.
 - linking files HTML to CSS
   
   There were numerous times where the html file wouldn't link to the relevent css file, on occasion the site would work when operating on a local server but when uploaded to netlify without any changes the site wouldn't work.
-  Also when opening the HTML file directly in a browser window this would run but then the loacl server version wouldn't work.
+  Also when opening the HTML file directly in a browser window this would run but then the local server version wouldn't work.
   
 - adding images
 
