@@ -23,6 +23,8 @@ Here is a sample of the wireframing completed during the design
 
 ![screen shot 2017-09-10 at 8 31figma_wireframe](https://user-images.githubusercontent.com/30610205/30248252-68cd3ddc-9667-11e7-95c4-7f1f75c9be53.png)
 
+Figma link https://www.figma.com/file/ajBNvzhhGKLuqwysdOqwvF3v/Project-2
+
 First I ended up manipulating the columns and turned them into my personal logo, and sourced an image which I liked for the clean lines and repeative nature which I could then incorporate in the background across the other pages.
 
 Then came my final design
