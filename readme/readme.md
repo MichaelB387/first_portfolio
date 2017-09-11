@@ -34,7 +34,6 @@ Then came my final design https://cook-shovel-60166.netlify.com/
 
 # Challenges
 
-There were numerous challenges with this project.
 
 ## HTML Challenges
 - linking files HTML to CSS
