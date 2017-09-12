@@ -27,7 +27,9 @@ Figma link https://www.figma.com/file/ajBNvzhhGKLuqwysdOqwvF3v/Project-2
 
 First I ended up manipulating the columns and turned them into my personal logo, and sourced an image which I liked for the clean lines and repeative nature which I could then incorporate in the background across the other pages.
 
-Then came my final design https://cook-shovel-60166.netlify.com/
+# Final design
+
+https://monk-counts-61543.netlify.com
 
 ![screen shot 2017-09-10 at 8 49final_design](https://user-images.githubusercontent.com/30610205/30248366-e5091ef0-9669-11e7-993e-be4e4a10f507.png)
 
