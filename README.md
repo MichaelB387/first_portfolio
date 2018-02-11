@@ -66,6 +66,8 @@ https://monk-counts-61543.netlify.com
 The webite is at this stage a finished product but will be an ongoing project to continuosly update and improve the website. I would like to add more features such as animation and also make the mobile version more appealing.
 
 
+# Full Design Change Coming 2018
+
 
 
 
