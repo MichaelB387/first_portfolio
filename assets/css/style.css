@@ -1,220 +1,193 @@
-body{
-    background-color: #F2F2F2;
-  }
-  
-  div {
-    font-family: 'Fjalla One', sans-serif;
-  }
-  
-  
-  /* .wrapper {
+body {
+  background-color: #f2f2f2;
+}
+
+div {
+  font-family: "Fjalla One", sans-serif;
+}
+
+/* .wrapper {
     width:100%;
     max-width:960px;
   } */
-  
-  .container-1 {
-    display: flex;
-    justify-content:center;
-    align-items:center;
-    flex-wrap:wrap;
-  
+
+.container-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+
+.box {
+  height: 100px;
+  min-width: 200px;
+  max-width: 200px;
+}
+
+.one {
+  flex-grow: 1;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 32px;
+}
+
+.two {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.three {
+  flex-grow: 1;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 32px;
+}
+
+.container-2 {
+  height: 400px;
+  min-width: 500px;
+  background-image: url("../img/image_8.svg");
+}
+
+.container-3 {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
+
+.seven {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.eight {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.nine {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ten {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.eleven {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media screen and (max-width: 425px) {
+  body {
+    background-image: url("../img/image_8.svg");
+    background-repeat: no-repeat;
   }
-  
-  a {
-    text-decoration:none;
-    color: black;
-    padding:10px;
-  }
-  
 
   .box {
-    height: 100px;
+    padding: 10px;
+    height: 50px;
     min-width: 200px;
     max-width: 200px;
-  
-  
+  }
+
+  .two {
+    order: -1;
   }
 
   .one {
-    flex-grow:1;
-    display:flex;
-    text-align:center;
-    flex-direction: column;
-    justify-content:center;
-    font-size: 32px;
+    display: none;
+    font-size: 16px;
   }
-  
-  .two {
-    flex-grow:1;
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
-  }
-  
+
   .three {
-    flex-grow:1;
-    display:flex;
-    text-align:center;
-    flex-direction: column;
-    justify-content:center;
-    font-size: 32px;
+    display: none;
+    font-size: 16px;
   }
-  
-  
-  .container-2 {
-     height:400px;
-     min-width: 500px;
-     background-image: url("../img/image_8.svg");
-  }
-  
-  .container-3 {
-  
-    display:flex;
+
+  .container-1 {
+    display: flex;
     text-align: center;
-    justify-content:center;
-    padding-top:20px;
-    flex-wrap:wrap;
-  
+    justify-content: center;
+    padding-top: 20px;
+    flex-wrap: wrap;
   }
-  
-  .seven {
-    flex-grow:1;
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
-  }
-  
-  .eight {
-    flex-grow:1;
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
-  }
-  
-  .nine {
-    flex-grow:1;
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
-  }
-  
-  .ten {
-    flex-grow:1;
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
-  }
-  
-  .eleven {
-    flex-grow:1;
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
-  }
-  
-  
 
-    
-    @media screen and (max-width: 425px) {
-        
-        body {
-            
-            background-image: url("../img/image_8.svg");
-            background-repeat: no-repeat;
-        
-          }
-        
-          .box {
-            padding:10px;
-            height: 50px;
-            min-width: 200px;
-            max-width: 200px;
-          }
-
-          .two{
-            order:-1;
-            
-        }
-        
-        .one {
-            display: none;
-            font-size:16px;
-            
-        }
-        
-        .three {
-            display:none;
-            font-size:16px;
-        }
-        
-        .container-1 {
-            display: flex;
-            text-align: center;
-            justify-content: center;
-            padding-top: 20px;
-            flex-wrap: wrap;
-            
-        }
-        
-        
-        .container-2 {
-            display:none;
-        }
-        .six{
-            display:none;
-        }
-        
+  .container-2 {
+    display: none;
+  }
+  .six {
+    display: none;
+  }
 
   .container-3 {
-      
-        display:flex;
-        text-align: center;
-        justify-content: center;
-        flex-wrap:wrap;
-      
-      }
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 
-      .seven{
-        order:-2;
-        font-size:16px;
-        width: 100px;
-        height:20px;
-        background: #F2F2F2;
-           
-      }
-      
-      .eight{
-        order:-2;
-        font-size:16px;
-        width: 100px;
-        height:20px;
-        background: #F2F2F2;
-           
-      }
+  .seven {
+    order: -2;
+    font-size: 16px;
+    width: 100px;
+    height: 20px;
+    background: #f2f2f2;
+  }
 
-      .nine{
-          order:-3;
-          font-size:16px;
-          width: 100px;
-          height:20px;
-          background: #F2F2F2;
-      }
+  .eight {
+    order: -2;
+    font-size: 16px;
+    width: 100px;
+    height: 20px;
+    background: #f2f2f2;
+  }
 
-      .ten {
-          font-size:16px;
-          width: 100px;
-          height:20px;
-          background: #F2F2F2;
-      }
+  .nine {
+    order: -3;
+    font-size: 16px;
+    width: 100px;
+    height: 20px;
+    background: #f2f2f2;
+  }
 
-      .eleven {
-          font-size:16px;
-          width: 100px;
-          height:20px;
-          background: #F2F2F2;
-      }
-  
+  .ten {
+    font-size: 16px;
+    width: 100px;
+    height: 20px;
+    background: #f2f2f2;
+  }
 
-
+  .eleven {
+    font-size: 16px;
+    width: 100px;
+    height: 20px;
+    background: #f2f2f2;
+  }
 }
-    
