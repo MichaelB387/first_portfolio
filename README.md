@@ -68,6 +68,8 @@ The webite is at this stage a finished product but will be an ongoing project to
 
 # Full Design Change Coming 2018
 
+- Changing to single page portfolio site
+
 
 
 
