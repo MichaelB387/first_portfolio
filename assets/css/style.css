@@ -158,6 +158,9 @@ div#nthchild-email  {
   margin-left: 5px;
   text-align: left;
 }
+textarea:focus, input:focus{
+  outline: none;
+}
 
 .button {
   -webkit-border-radius: 2;
@@ -186,6 +189,8 @@ div#nthchild-email  {
 .skills-box h2 {
   padding-top: 10px;
 }
+
+/* Skills Link styling End */
 
 @media screen and (max-width: 425px) {
   body {
