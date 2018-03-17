@@ -6,10 +6,7 @@ div {
   font-family: "Fjalla One", sans-serif;
 }
 
-/* .wrapper {
-    width:100%;
-    max-width:960px;
-  } */
+
 
 .container-1 {
   display: flex;
@@ -58,6 +55,7 @@ a {
 .container-2 {
   height: 400px;
   min-width: 500px;
+  max-width: width;
   background-image: url("../img/image_8.svg");
 }
 
@@ -102,6 +100,32 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+div#parent {
+  padding-top: 10px;
+  padding-bottom: 15px;
+  height: 662px;
+}
+
+div#child {
+  margin: 0 auto;
+  width: 800px;
+  height: 350px;  
+  background: #f2f2f2;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+div#nthchild  {
+  width: 700px;
+  height: 300px;
+}
+.about-header {
+  margin-left: 5px;
+}
+
+div#nthchild h2,p,ul {
+  margin-left: 5px;
+  text-align: left;
 }
 
 @media screen and (max-width: 425px) {
