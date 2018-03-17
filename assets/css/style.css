@@ -175,6 +175,18 @@ div#nthchild-email  {
 }
 /* End Email Link Styling */
 
+/* Skills Link Styling */
+
+.skills-box {
+  margin-left: 5px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.skills-box h2 {
+  padding-top: 10px;
+}
+
 @media screen and (max-width: 425px) {
   body {
     background-image: url("../img/image_8.svg");
