@@ -2,6 +2,7 @@
 /* Main Styling */
 body {
   background-color: #f2f2f2;
+  color: #111111;
 }
 
 div {
@@ -19,7 +20,7 @@ div {
 
 a {
   text-decoration: none;
-  color: black;
+  color: #111111;
   padding: 10px;
 }
 
