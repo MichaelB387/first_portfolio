@@ -42,7 +42,7 @@ a {
 .two {
   flex-grow: 1;
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
 }
 
@@ -189,6 +189,12 @@ textarea:focus, input:focus{
 
 .skills-box h2 {
   padding-top: 10px;
+}
+
+.return {
+  padding: 0px;
+  height: 96px;
+  width: 84px;
 }
 
 /* Skills Link styling End */
