@@ -29,7 +29,7 @@ First I ended up manipulating the columns and turned them into my personal logo,
 
 # Final design
 
-https://monk-counts-61543.netlify.com
+https://michael-blackney.netlify.com
 
 ![screen shot 2017-09-10 at 8 49final_design](https://user-images.githubusercontent.com/30610205/30248366-e5091ef0-9669-11e7-993e-be4e4a10f507.png)
 
