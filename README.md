@@ -63,7 +63,7 @@ https://michaelblackney.netlify.com
 
 # Conclusion
 
-The webite is at this stage a finished product but will be an ongoing project to continuosly update and improve the website. I would like to add more features such as animation and also make the mobile version more appealing.
+The webite is at this stage will be an ongoing project. I would like to add more features such as animation and also make the mobile version more appealing.
 
 
 
